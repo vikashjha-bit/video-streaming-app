@@ -3,13 +3,8 @@
 A simple real-time video streaming application built using WebRTC, Node.js, Express, and WebSocket.
 
 This project allows users to create or join rooms and start a two-way video call with audio. It's lightweight and designed for fast, real-time performance.
-
-## How to start
-- goes into the directory (cd server)
-- than run the server (node server.js)
-  
+ 
 ## Features
-
 - 🔁 Peer-to-peer video and audio streaming using WebRTC
 - 🧠 WebSocket-based signaling server
 - 🎥 Start/Stop camera
@@ -34,4 +29,17 @@ This project allows users to create or join rooms and start a two-way video call
    git clone https://github.com/vikashjha-bit/video-streaming-app.git
    cd video-streaming-app
 
+2. Install server dependencies (this installs necessary packages)
+      bash
+      Copy
+      Edit
+      cd server
+      npm install
+
+3. start backend
+- goes into the directory (cd server)
+- than run the server (node server.js)
+
+4. start
+- goes into html page and open with live server
    
