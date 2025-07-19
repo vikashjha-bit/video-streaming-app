@@ -30,11 +30,11 @@ This project allows users to create or join rooms and start a two-way video call
    cd video-streaming-app
 
 2. Install server dependencies (this installs necessary packages)
-      bash
-      Copy
-      Edit
-      cd server
-      npm install
+      -bash
+      -Copy
+      -Edit
+      -cd server
+      -npm install
 
 3. start backend
 - goes into the directory (cd server)
